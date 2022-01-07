@@ -8,7 +8,7 @@ import org.junit.Test;
 public class JunitTestClass {
 @Test
 public void setup() {
-	String str="Hello";
-	assertEquals("Hello",str);
+	String str="Hello,Welcome";
+	assertEquals("Hello,Welcome",str);
 }
 }
