@@ -12,6 +12,6 @@ public class Demo {
 		{
 System.out.println(failure.toString());
 	}
-System.out.println("result="+result.wasSuccessful());
+System.out.println("result of test="+result.wasSuccessful());
 }
 }
